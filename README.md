@@ -13,5 +13,5 @@ emillylima@gmail.com
 
 @emillylima
 
-![descrição do GIF](link GIF do Tenor)
-https://media.tenor.com/
+![](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif
+)
